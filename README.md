@@ -12,7 +12,6 @@
 - **REST API**
 - **Front End:** BootStrap,React JS
 - **DevOps tool**: Docker
-- **Cloud**: AWS
 - **Agile**
 - **Testing framework**: Junit.
 - **Certifications**: 1Z0-851 Java Standard Edition 6 Programmer Certified Professional (Score 93%)
