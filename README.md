@@ -6,7 +6,7 @@
 -  I have great passion towards System Engineering.
 -  I have total experience of 3.5 years as software Engineer.
 - **Skills:**
-- **Languages**: Java 8,Shell Script,PL/SQL
+- <i class="fa-solid fa-brackets-curly"></i>**Languages**: Java 8,Shell Script,PL/SQL
 - **Backend Technologies**: Spring framework,Spring Boot,ORM,Spring Data JPA,Mysql,Oracle 11g,Spring Docs,Spring Validation.
 - **REST API**
 - **Front End:** BootStrap,React JS
