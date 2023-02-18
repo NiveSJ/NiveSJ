@@ -13,5 +13,5 @@
 - **DevOps tools**: Docker
 - **Agile**
 - **Testing framework**: Junit.
-- Certifications: 1Z0-851 Java Standard Edition 6 Programmer Certified Professional (Score 93%)
+- **Certifications**: 1Z0-851 Java Standard Edition 6 Programmer Certified Professional (Score 93%)
 
