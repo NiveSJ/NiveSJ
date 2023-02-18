@@ -14,5 +14,6 @@
 - **DevOps tool**: Docker
 - **Agile**
 - **Testing framework**: Junit.
+- **cloud platform:** AWS
 - **Certifications**: 1Z0-851 Java Standard Edition 6 Programmer Certified Professional (Score 93%)
 
