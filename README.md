@@ -7,7 +7,7 @@
 -  I have total experience of 3.5 years as Software Engineer.
 
  **Skills:**
-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-OLjiX8tzEa5O5mfysJ4YmYgDTAqb4MSZ+RUQtZv/9CKkLi/8d+ORmFSz1c2jNVTW" crossorigin="anonymous"> **Languages**: Java 8,Shell Script,PL/SQL
+- **Languages**: Java 8,Shell Script,PL/SQL
 - **Backend Technologies**: Spring framework,Spring Boot,ORM,Spring Data JPA,Mysql,Oracle 11g,Spring Docs,Spring Validation.
 - **REST API**
 - **Front End:** BootStrap,React JS
