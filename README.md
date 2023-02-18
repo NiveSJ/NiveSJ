@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**NiveSJ/NiveSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m Nivethitha VJ. I hold bachelors in Computer Science and Engineering with grade 8.4/10. ...
 - 🌱 I have great passion towards System Engineering ...
@@ -17,4 +14,4 @@ Here are some ideas to get you started:
 - **Agile**
 - **Testing framework**: Junit.
 - Certifications: 1Z0-851 Java Standard Edition 6 Programmer Certified Professional (Score 93%)
--->
+
