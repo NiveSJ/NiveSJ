@@ -3,7 +3,7 @@
 
 
 -  I’m Nivethitha VJ. I hold Bachelors in Computer Science and Engineering with grade 8.4/10. 
--  I have great passion towards System Engineering.
+-  I have great passion towards System Software.
 -  I have total experience of 3.5 years as Software Engineer.
 
  **Skills:**
