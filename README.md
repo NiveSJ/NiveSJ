@@ -8,7 +8,8 @@
 
  **Skills:**
 - **Languages**: Java 8,Shell Script,PL/SQL
-- **Backend Technologies**: Spring framework, Spring Boot, ORM, Spring Data JPA, Mysql, Oracle 11g, Spring Docs, Spring Validation,spring web services security.
+- **Backend Technologies**: Spring framework, Spring Boot, ORM, Spring Data JPA, Mysql, Oracle 11g, Spring Docs, Spring Validation,
+- spring web services security.
 - **REST API & SOAP**
 - **Front End:** BootStrap,React JS,Java Script
 - **DevOps tool**: Docker
