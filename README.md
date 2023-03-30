@@ -15,5 +15,6 @@
 - **Agile**
 - **Testing framework**: Junit.
 - **Cloud platform:** AWS
+- **Operating Systems:** Unix,Windows,Linux
 - **Certifications**: 1Z0-851 Java Standard Edition 6 Programmer Certified Professional (Score 93%)
 
